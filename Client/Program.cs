@@ -85,7 +85,7 @@ namespace Client
                     "1 - Show all products\n" +
                     "2 - Buy product by name\n" +
                     "3 - Top up balance\n" +
-                    "4 - Show user products\n");
+                    "4 - History\n");
                 if(isAdmin)
                     Console.WriteLine("5 - Delete product by name\n" +
                         "6 - Edit product by id\n");
